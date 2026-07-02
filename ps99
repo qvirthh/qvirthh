@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/chichitkh100/AKUMA-HUB/refs/heads/main/AKUMA%20HUB"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/UleMJxg8JUwmReie/raw",true))()
